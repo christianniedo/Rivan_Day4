@@ -4,7 +4,7 @@
 
 ~~~
 !@CoreTAAS,CoreBABA
-conf t22
+conf t
  default int fa0/10-12
  end
 ~~~
